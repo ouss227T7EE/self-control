@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Self Control</string>
+    <string name="accessibility_service_label">Self-Control Auto-Kick Blocker</string>
+    <string name="accessibility_service_description">Monitors active windows in Instagram and YouTube. When short-form video feeds (Reels, Shorts, TikTok) are detected, it automatically kicks you back to the home screen to maintain focus.</string>
+    <string name="kick_toast_message">Focus! Brain-rot blocked.</string>
+    <string name="status_enabled">Auto-Kick Active</string>
+    <string name="status_disabled">Auto-Kick Disabled</string>
+    <string name="enable_service_btn">Enable Accessibility Service</string>
+    <string name="service_active_desc">The blocker is currently running and monitoring Instagram &amp; YouTube for short-form distractions.</string>
+    <string name="service_inactive_desc">Tap below to grant Accessibility permission so Self-Control can auto-kick Reels and Shorts.</string>
+    <string name="blocked_keywords_title">Blocked Keywords</string>
+    <string name="monitored_apps_title">Monitored Apps</string>
+</resources>

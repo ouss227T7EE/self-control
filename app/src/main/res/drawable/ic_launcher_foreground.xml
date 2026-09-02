@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outline & Body -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,22L30,32.67v17.78c0,14.81 10.24,28.66 24,32.22c13.76,-3.56 24,-17.41 24,-32.22V32.67L54,22z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M54,26.5L34,35.39v15.06c0,12.59 8.53,24.36 20,27.39c11.47,-3.03 20,-14.8 20,-27.39V35.39L54,26.5z" />
+    <!-- Center Prohibited/Pause Icon in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38c-8.84,0 -16,7.16 -16,16s7.16,16 16,16s16,-7.16 16,-16S62.84,38 54,38zM42,54c0,-2.61 0.84,-5.03 2.25,-7L59,61.75C57.03,63.16 54.61,64 52,64C46.48,64 42,59.52 42,54zM64.75,61L50,46.25C51.97,44.84 54.39,44 57,44c5.52,0 10,4.48 10,10C67,56.61 66.16,59.03 64.75,61z" />
+</vector>

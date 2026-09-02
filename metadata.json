@@ -1,0 +1,6 @@
+{
+  "name": "Self Control",
+  "description": "Self-Control accessibility service app that auto-kicks short-form video feeds like Reels, Shorts, and TikTok to maintain focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
